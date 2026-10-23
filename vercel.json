@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api_solver.py": {
+      "runtime": "python3.12"
+    }
+  }
+}
